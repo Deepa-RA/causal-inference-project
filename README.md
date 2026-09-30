@@ -17,7 +17,7 @@ The project's core question: **can standard and advanced causal inference method
 | Module | Topic | Status |
 |---|---|---|
 | 0 | Environment setup | ✅ Done |
-| 1 | Design & simulate the dataset | 🚧 In progress |
+| 1 | Design & simulate the dataset | ✅ Done |
 | 2 | EDA & KPI framing | ⏳ Not started |
 | 3 | Naive comparison (and why it's wrong) | ⏳ Not started |
 | 4 | Confounding control (stratification, PSM) | ⏳ Not started |
